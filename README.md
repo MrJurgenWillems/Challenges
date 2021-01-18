@@ -1,6 +1,4 @@
-# Challenges
-
-The biggest public sector challenges in Germany - A citizen perspective
+# The biggest public sector challenges in Germany - A citizen perspective
 ================
 Jurgen Willems, Lisa Schmidthuber, Moritz Schmid, Monika Knassmüller,
 Falk Ebinger, Katharina Dinhof
