@@ -250,19 +250,6 @@ policy and measures.
 **Figure download** (in English or German):
 <https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050>
 
-# Extras
-
-## Public sector challenges: Items
-
-### English
-
-### German
-
-## Descriptives Statistics
-
-## Correlation of items
-
-![](ReadMeChallenges_ENG_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
 
 # References
 
