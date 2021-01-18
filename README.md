@@ -1,17 +1,18 @@
-# The biggest public sector challenges in Germany - A citizen perspective
-
+The biggest public sector challenges in Germany - A citizen perspective
 ================
-
 Jurgen Willems, Lisa Schmidthuber, Moritz Schmid, Monika Knassmüller,
 Falk Ebinger, Katharina Dinhof
-
-
 (January 2021)
-
 
 [**Institute for Public Management &
 Governance**](https://www.wu.ac.at/en/pubmgt/institute "Institute for Public Management & Governance")
-
+(
+[Website](https://www.wu.ac.at/en/pubmgt/institute "WEBSITE: Institute for Public Management & Governance")
+-
+[Twitter](https://twitter.com/GovPubman "TWITTER: Institute for Public Management & Governance")
+-
+[Fides](https://bach.wu.ac.at/d/research/organization/3994/#employees. "FIDES: Institute for Public Management & Governance")
+)
 
 WU - Vienna University of Economics and Business
 
@@ -124,9 +125,8 @@ indicate a different mental reference framework of migrants when
 evaluating a challenge in Germany, for example compared to their country
 of origin (Figure 6).
 
-Download original figures – in German and English – here (Willems et
-al., 2021):
-<https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050>
+Download original figures – in German and English – [here (Willems et
+al., 2021)](https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050)
 
 The raw data is available at: <https://osf.io/uv928/>
 
@@ -156,8 +156,8 @@ decision-making processes, report transparently on performance, and
 represent all groups in society. The order moves from the individual to
 the societal level.
 
-**Figure download** (in English or German):
-<https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050>
+[**Figure download** (in English or
+German)](https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050)
 
 # German public administration as a whole versus city and municipality administration (Figure 2)
 
@@ -174,8 +174,8 @@ municipalities. Therefore, we combine the answers of both groups (A and
 B) to clarify differences for other demographic variables (Figures 3 to
 6).
 
-**Figure download** (in English or German):
-<https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050>
+[**Figure download** (in English or
+German)](https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050)
 
 # Gender (Figure 3)
 
@@ -185,8 +185,8 @@ The results show no major gender differences, except for women assessing
 the challenge even greater of having all societal groups sufficiently
 represented in public administrations (Figure 3).
 
-**Figure download** (in English or German):
-<https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050>
+[**Figure download** (in English or
+German)](https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050)
 
 # Sector of employment (Figure 4)
 
@@ -213,8 +213,8 @@ However, public sector and nonprofit employees have a similar view of
 the magnitude of the challenge posed by citizen participation in
 decision-making.
 
-**Figure download** (in English or German):
-<https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050>
+[**Figure download** (in English or
+German)](https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050)
 
 # Age (Figure 5)
 
@@ -223,8 +223,8 @@ decision-making.
 When participants are differentiated by age, there is a steady increase
 in the perceived extent of all challenges with age.
 
-**Figure download** (in English or German):
-<https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050>
+[**Figure download** (in English or
+German)](https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050)
 
 # Migration (Figure 6)
 
@@ -244,9 +244,22 @@ different. Further research on the specifics of these differences would
 be promising and highly relevant, especially with regard to integration
 policy and measures.
 
-**Figure download** (in English or German):
-<https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050>
+[**Figure download** (in English or
+German)](https://figshare.com/articles/figure/The_biggest_public_sector_challenges_in_Germany_-_A_citizen_perspective/13581050)
 
+# Extras
+
+## Public sector challenges: Items
+
+### English
+
+### German
+
+## Descriptives Statistics
+
+## Correlation of items
+
+![](ReadMeChallenges_ENG_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
 
 # References
 
