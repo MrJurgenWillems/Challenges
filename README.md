@@ -248,9 +248,31 @@ German)](https://figshare.com/articles/figure/The_biggest_public_sector_challeng
 
 ### English
 
+ - 	ChallenITEMS_1	: 	Attracting competent public employees, 
+ - 	ChallenITEMS_2	: 	Keeping up to date with new technological developments , 
+ - 	ChallenITEMS_3	: 	Keep public employees motivated, 
+ - 	ChallenITEMS_4	: 	Involve citizens in decision-making processes, 
+ - 	ChallenITEMS_5	: 	Reporting performance transparently, 
+ - 	ChallenITEMS_6	: 	Preserve a good reputation, 
+ - 	ChallenITEMS_7	: 	Represent all groups in society (e.g. migrants, older people, etc.), 
+ - 	ChallenITEMS_8	: 	Maintain a good public service quality, 
+ - 	ChallenITEMS_9	: 	Maintain public infrastructure well (e.g. public buildings, roads, bridges, etc.), 
+ - 	ChallenITEMS_10	: 	Work efficiently
+
+
 ### German
 
-## Descriptives Statistics
+ - 	ChallenITEMS_1	: 	Gewinnung von kompetenten Verwaltungsbediensteten, 
+ - 	ChallenITEMS_2	: 	In Bezug auf neue technologische Entwicklungen auf dem Laufenden bleiben , 
+ - 	ChallenITEMS_3	: 	Die Verwaltungsbedienstete motiviert halten, 
+ - 	ChallenITEMS_4	: 	Bürger*innen in Entscheidungsprozesse einbeziehen, 
+ - 	ChallenITEMS_5	: 	Transparent über Leistungen berichten, 
+ - 	ChallenITEMS_6	: 	Einen guten Ruf bewahren, 
+ - 	ChallenITEMS_7	: 	Alle Gruppen der Gesellschaft vertreten (z.B. Migrant*innen, ältere Menschen usw.), 
+ - 	ChallenITEMS_8	: 	Eine gute Qualität des öffentlichen Dienstes aufrechterhalten, 
+ - 	ChallenITEMS_9	: 	Öffentliche Infrastruktur gut instand halten (z.B. öffentliche Gebäude, Straßen, Brücken usw.), 
+ - 	ChallenITEMS_10	: 	Effizient arbeiten
+
 
 ## Correlation of items
 
