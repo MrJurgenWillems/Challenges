@@ -2,17 +2,12 @@ The biggest public sector challenges in Germany - A citizen perspective
 ================
 Jurgen Willems, Lisa Schmidthuber, Moritz Schmid, Monika Knassmüller,
 Falk Ebinger, Katharina Dinhof
+
 (January 2021)
 
 [**Institute for Public Management &
 Governance**](https://www.wu.ac.at/en/pubmgt/institute "Institute for Public Management & Governance")
-(
-[Website](https://www.wu.ac.at/en/pubmgt/institute "WEBSITE: Institute for Public Management & Governance")
--
-[Twitter](https://twitter.com/GovPubman "TWITTER: Institute for Public Management & Governance")
--
-[Fides](https://bach.wu.ac.at/d/research/organization/3994/#employees. "FIDES: Institute for Public Management & Governance")
-)
+
 
 WU - Vienna University of Economics and Business
 
